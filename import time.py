@@ -1,3 +1,4 @@
+Chapter 1
 import time
 
 total_seconds = time.time()
