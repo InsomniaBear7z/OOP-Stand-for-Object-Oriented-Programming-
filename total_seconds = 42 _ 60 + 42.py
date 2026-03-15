@@ -1,3 +1,4 @@
+Chapter 1 
 total_seconds = 42 * 60 + 42
 print(f"1. Tổng số giây trong 42 phút 42 giây là: {total_seconds} giây")
 
