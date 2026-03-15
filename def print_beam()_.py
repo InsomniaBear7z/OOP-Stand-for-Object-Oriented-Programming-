@@ -1,4 +1,4 @@
-Chapter 1
+Chapter 3
 def print_beam():
     print('+ - - - - ' * 2 + '+')
 
